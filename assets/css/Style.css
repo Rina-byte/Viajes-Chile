@@ -1,0 +1,20 @@
+.custom-tooltip {
+    --bs-tooltip-bg: var(--bs-info);
+}
+.bg-nav{
+    background-color: #33ffda;
+}
+body{font-family: "roboto" , sans-serif;
+}
+p{
+    font-weight: 400;
+    font-style: normal;
+}
+h5{
+    font-weight: 400;
+    font-style: normal;
+}
+h3{
+    font-weight: 500;
+    font-style: normal;
+}
