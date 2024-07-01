@@ -1,13 +1,17 @@
+/* cambiar color tooltip */
+
 .custom-tooltip {
     --bs-tooltip-bg: var(--bs-info);
 }
+/* color menu */
 .bg-nav{
     background-color: #33ffda;
 }
+/* tipografia */
 body{font-family: "roboto" , sans-serif;
 }
 p{
-    font-weight: 400;
+    font-weight: 300;
     font-style: normal;
 }
 h5{
